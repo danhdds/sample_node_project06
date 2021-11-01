@@ -2,11 +2,11 @@
 This API was built to demonstrate the using of SQLite and NodeJS.
 
 ### To create database (If wants to generate DB from scratch) 
- 1 - Download SQLite on https://www.sqlite.org/download.html
- 2 - Navigate to main project path (example `cd sample_node_project06`)
- 3 - Create database:
+- 1 - Download SQLite on https://www.sqlite.org/download.html
+- 2 - Navigate to main project path (example `cd sample_node_project06`)
+- 3 - Create database:
  `sqlite3 tasks.db`
- 4 - Create task table: 
+- 4 - Create task table: 
 ```
 CREATE TABLE task (
       id INTEGER PRIMARY KEY AUTOINCREMENT,
