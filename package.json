@@ -1,0 +1,29 @@
+{
+  "name": "task-api",
+  "version": "1.0.0",
+  "description": "This is a tasks api to demonstrate SQLite working with Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhdds/sample_node_project06.git"
+  },
+  "keywords": [
+    "tasks",
+    "api",
+    "node",
+    "sqlite"
+  ],
+  "author": "(Danhdds)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danhdds/sample_node_project06/issues"
+  },
+  "homepage": "https://github.com/danhdds/sample_node_project06#readme",
+  "dependencies": {
+    "better-sqlite3": "^7.4.4",
+    "express": "^4.17.1"
+  }
+}
