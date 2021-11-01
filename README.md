@@ -5,7 +5,7 @@ This API was built to demonstrate the using of SQLite and NodeJS.
  1 - Download SQLite on https://www.sqlite.org/download.html
  2 - Navigate to main project path (example `sample_node_project06)
  3 - Create database:
-     `sqlite3 tasks.db`
+ `sqlite3 tasks.db`
  4 - Create task table: 
 ```
 CREATE TABLE task (
@@ -17,8 +17,8 @@ CREATE TABLE task (
 ```
 
 ### To run this API
-1 - `npm intall`
-2 - `npm start`
+- 1 - `npm intall`
+- 2 - `npm start`
 
 #### Backlog
 - [ ] Create POST 
